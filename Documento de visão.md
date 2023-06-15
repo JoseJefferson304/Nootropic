@@ -35,41 +35,10 @@ O ambiente do site é amigável e intuitivo, com uma interface de usuário simpl
 
 ### 5. Principais Necessidades dos Usuários
 
-Para o administrador, sua principal necessidade é manter o cadastro dos funcionarios para fazerem os serviços que ele manda.
+Para o administrador, sua principal necessidade é ter um sistema eficiente que permita acompanhar o progresso do projeto, além de fornecer relatórios e métricas, definir metas claras e integrar-se com outras ferramenta, assim maximizando a gestão e a produtividade do projeto.
 
-Para o funcionário, sua principal obrigação será marcar os horarios em que ele estará disponível para os cortes, além de realizar os cortes em sí.
+Para o usuário, as pricipais necessidades são a organização e gerenciamento eficiente de tarefas pessoais, priorização e definição de prazos, acompanhamento de progresso pessoal, minimização de distrações, acesso a informações e recursos relevantes.
 
-O cliente precisará encontrar bons profissionais com horários convenientes para ele.
+### 6.	Visão Geral do Produto
 
-### 6.	Alternativas Concorrentes
-
-Alternativas concorrentes seriam as redes sociais num geral, como whatsapp ou instagram, pois nelas o cliente poderia entrar em contato com o profissional e agendar o serviço desejado. 
-
-Porém essas plataformas não são específicas para esse tipo de interação, portanto seria bastante possível que com o número muito alto de pedidos, houvesse problemas no agendamento.
-
-### 7.	Visão Geral do Produto
-
-Basicamente nosso sistema procura a maior eficiencia do agendamento, confirmação, especificação e cancelamento do serviço. Além de promover o próprio negócio com o site.
-
-### 8. Requisitos Funcionais
-
-| Código | Nome | Descrição |
-|:---  |:--- |:--- |
-| RF01 | Visitar o sistema | O usuário visita o site, checa cortes, horários e serviços disponíveis, mas sem realizar agendamento algum. |
-| RF02 | Cadastro do cliente | O usuário se cadastra no sistema, ele pode atualizar os dados já postos ou excluir o próprio cadastro. Assim podendo realizar os agendamentos.   |
-| RF03 | Cadastrar funcionario | O administrador fica responsável por realizar o cadastro ou excluir o cadastro dos funcionários. |
-| RF04 | Consulta de agendas |  O cliente consulta os horarios disponiveis em determinados dias, podendo escolher o horario mais adequado para o atendimento e a realização do serviço. |
-| RF05 | Gerenciamento de Serviços | Adm mantém a relação de serviços prestados pela empresa ou profissional. |
-| RF07 | Gerenciamento da Agenda | ADM registra os horários disponíveis de atendimento. |
-| RF08 | Cadastro de atendimento | O cliente marca o corte no horário em que o funcionário está disponível |
-
-### 9. Requisitos Não-funcionais
-
- |Código | Nome | Descrição | Categoria | Classificação|
-|:---  |:--- |:--- |:--- |:--- |
-| RNF01 | Design responsivo | O sistema deve adaptar-se a qualquer tamanho de tela de dispositivo, seja, computador, tablets ou smart phones. | Usabilidade| Obrigatório |
-| RNF02 | Criptografia de dados| Senhas de usuários devem ser gravadas de forma criptografada no banco de dados. | Segurança | Obrigatório |
-| RNF03 | Controle de acesso | Só usuários autenticados podem ter acesso ao sistema, com exceção ao auto cadastramento do usuário. | Segurança | Obrigatório |
-| RNF04 | Tempo de resposta |A comunicação entre o servidor e o cliente deve ocorrer em tempo hábil | Performance | Desejável |
-| RNF05 | Sistema Web | A aplicação deve ser um site. | Arquitetura | Obrigatório |
-| RNF06 | Dados pessoais | Os clientes não devem visualizar dados de outros clientes (na agenda, por exemplo). | Privacidade | Obrigatório |
+A visão da Nootropic é ser a plataforma líder em gerenciamento de tarefas, fornecendo uma solução online intuitiva e abrangente. Nosso objetivo é capacitar os usuários a serem mais produtivos, organizados e focados, oferecendo recursos personalizáveis e uma experiência agradável. 

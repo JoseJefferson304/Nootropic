@@ -1,4 +1,4 @@
-# <img src="https://github.com/JoseJefferson304/Nootropic/assets/82787934/38a9b191-0bee-46b6-b33f-bd68805bc462" alt="Logo" width="50px"> Nootropic
+# <img src="https://github.com/JoseJefferson304/Nootropic/blob/main/nootropic/src/Imagens/logo.png?raw=true" alt="Logo" width="50px"> Nootropic
 ### Descubra o Nootropic: onde a sabedoria se torna 'nootória'!
 
 ### 1. Ideia Principal
